@@ -1,0 +1,6 @@
+{
+  "name": "IdentityForge",
+  "description": "A comprehensive Brand Identity Generator and 'Brand Bible' dashboard. It utilizes Gemini to produce brand concepts, color palettes, typography pairings, and images, along with an AI Brand Consultant chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
